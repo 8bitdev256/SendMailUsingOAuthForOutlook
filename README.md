@@ -1,4 +1,4 @@
-# Send Mail Using OAuth for Outlook
+# Send mail using OAuth for Outlook
 
 AVISO: Este NÃO é um repositório de portfólio. Trata-se de um problema que estou tentando resolver com a ajuda do StackOverflow. Se você estiver enfrentando o mesmo problema, pode ver a pergunta e as respostas no link abaixo:
 
